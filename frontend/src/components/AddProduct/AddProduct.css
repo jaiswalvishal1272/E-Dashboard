@@ -1,0 +1,27 @@
+.product {
+    margin-left: 30%;
+}
+
+.input-box {
+    padding: 7px;
+    display: block;
+    border: 1px solid skyblue;
+    width: 300px;
+    margin: 20px;
+}
+
+.add-product-btn {
+    margin: 25px;
+    padding: 10px;
+    width: 150px;
+    background-color: skyblue;
+    border: 1px solid;
+    cursor: pointer;
+}
+
+.invalid-err-msg {
+    color: red;
+    margin-top: -20px;
+    display: block;
+    margin-left: 25px;
+}
